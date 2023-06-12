@@ -4,7 +4,7 @@ In this blog application user can create, update, read the blogs and user can al
 **Homepage**
 ![image](https://github.com/Siddhesh-Patil/blogapplication/assets/83155673/017ffe75-c37e-4e5e-9d9a-3702c6b9703c)
 
-**sections and all the blogs created by the users.**
+**Sections and all the blogs created by the users.**
 ![image](https://github.com/Siddhesh-Patil/blogapplication/assets/83155673/fb84ff5a-62cc-477d-b9ae-6994108ddf34)
 
 **User can read the blog and delete or edit the blogs written by him.**
