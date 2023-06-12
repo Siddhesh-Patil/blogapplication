@@ -1,7 +1,7 @@
 # blogapplication
 In this blog application user can create, update, read the blogs and user can also delete the blogs created by him. Users can comment on any blog. There are different sections such as music, sports etc. in which user can write a particular blog.
 
-**Homepage
+_Homepage_
 ![image](https://github.com/Siddhesh-Patil/blogapplication/assets/83155673/017ffe75-c37e-4e5e-9d9a-3702c6b9703c)
 
 **sections and all the blogs created by the users
